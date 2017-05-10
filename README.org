@@ -1,1 +1,2 @@
 * Testing verified commits
+* Test commiting from emacs
